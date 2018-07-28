@@ -1,4 +1,4 @@
-package com.timobot.matchhandler
+package com.timobot.matchhandler.http
 
 data class SlackCommand(
         val token: String = "",
